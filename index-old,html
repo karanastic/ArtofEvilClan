@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>Art of Evil</title>
+<meta name="description" content="Art of Evil - The Clan for the SuperCell game Clash of Clan. Private membership.">
+<meta name="keywords" content="clash of clans, supercell, art of evil, clan, member site, member, site, funny, unofficial">
+
+<!-- Mobile viewport -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<link rel="shortcut icon" href="images/favicon.ico"  type="image/x-icon">
+
+<!-- CSS-->
+<!-- Google web fonts. You can get your own bundle at http://www.google.com/fonts. Don't forget to update the CSS accordingly!-->
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Ubuntu' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="js/flexslider/flexslider.css">
+<link rel="stylesheet" href="css/colorblocks-style.css">
+
+<!-- end CSS-->
+    
+<!-- JS-->
+<script src="js/libs/modernizr-2.6.2.min.js"></script>
+<!-- end JS-->
+
+
+
+
+<body id="home">
+
+  
+<!-- header area -->
+    <header class="wrapper clearfix">
+		       
+        <div id="banner">        
+        	<div id="logo"><a href="colorblocks.html"><img src="images/basic-logo.png" alt="logo"></a></div> 
+        </div>
+        
+        <!-- main navigation -->
+        <nav id="topnav" role="navigation">
+        <div class="menu-toggle">Menu</div>  
+        	<ul class="srt-menu" id="menu-main-navigation">
+            <li><a href="#rules">Rules and Regulations</a></li>
+			 <li><a href="#members">Members</a></li>
+			 <li><a href="#contact">Contact</a></li>
+			 			 <li><a href="http://board.artofevilclan.com">Message Board</a></li>
+
+
+			  
+
+			
+		</ul>     
+		</nav><!-- end main navigation -->
+  
+    </header><!-- end header -->
+ 
+ 
+<!-- hero area (the grey one with a slider) -->
+    <section id="hero" class="clearfix ">    
+    
+    <div class="wrapper">
+      <div class="row heightfourfifty">
+	  
+        <div class="grid_6 heightfourfifty whitetext shadowtext">
+           
+          <h1>ART OF EVIL</h1>
+          
+            <p class="centertext whitetext">This is the official membership site for the Clash of Clans super-team, Art of Evil. We originate in Southern California but have spread our dominance across the planet you call Earth. Welcome.</p>
+            
+        </div>
+        <div class="grid_4 rightfloat heightfourfifty">
+        		<!-- responsive FlexSlider image slideshow 
+              <div class="flexslider">
+                    <ul class="slides">
+                        <li>
+                            <img src="images/colorblocks-pic1.jpg" />
+                            
+                        </li>
+                        <li>
+                           <img src="images/colorblocks-pic2.jpg" />                          
+                        </li>
+                        <li>
+                            <img src="images/colorblocks-pic3.jpg" />
+                        
+                        </li>
+                    </ul>
+                  </div>  FlexSlider -->
+                </div><!-- end grid div --><div class="grid_8"> </div>
+           </div><!-- end .row div -->
+        </div><!-- end .wrapper div -->
+    </section><!-- end hero area -->
+
+
+<!-- main content area -->      
+<div id="main" class="wrapper clearfix">  
+  
+<!-- content area -->    
+	<section id="content" class="wide-content">
+   	  
+	  <div class="grid_6">
+       <img src="images/aboutimage.png"></div>
+
+		 <div class="grid_6">
+       	<h1>About Our Clan</h1>
+    <p class="paddingtop20">    First off, let's set the record straight. We are a selective group of Clash of Clans enthusiasts, not a gang. We go to war constantly and cause mayhem on our opponents. This 18+ Clan takes the game seriously with a sense of humour.
+</p>
+
+<p>The clan originated in Oceanside, California in late 2013. It started out with one man with a dream and a dangerous dose of ambition, RickRox. He soon recruited Smee, Doc G, Beez, and the infamous Karanastic. One by one, more prospects and then members joined from around the globe. Each played a part in a larger role, each serving a purpose. As a result, the clan morphed into a dark brotherhood who mastered the Art of Evil.
+	</p>	
+		</div>
+		
+	</section><!-- #end content area -->
+</div><!-- #end div #main .wrapper -->
+
+    <!-- columns demo, delete it!-->
+    <section id="rules" class="clearfix grayelement vertical-padding" style="padding-bottom:80px;">
+    <div class="wrapper clearfix centertext">
+  
+       
+      <div class="grid_6">
+	  <h1>Rules and Regulations</h1><p class="lefttext  paddingtop20">1. Adult Only, 18+</p>
+
+<p class="lefttext">2. Use all attacks during war | Even if we are winning, all attacks should be used.</p>
+
+<p class="lefttext">3. Attack your parallel first. (If you are ranked #8 in war, attack their #8 first)</p>
+
+<p class="lefttext">4. If you have not attacked your parallel after 12 hours, another member can use their clean up attack on your parallel.</p>
+
+<p class="lefttext">5. Communicate on chat and donate troops. If you communicate properly, rules 2-4 can be pardoned.</p>
+
+<p class="lefttext">6. Opt-Out only if you have significant personal reason or your Spell Factory is upgrading and/or BOTH ROYALS are upgrading. Max 5 opt-outs per war. If more than 5, co-leaders will auto opt-in members based on highest trophy count.</p>
+
+<p>New members are on a 30 day trial period. After that, they will be promoted to Elder. Failure to follow the rules will result in a demotion if Elder or higher, and a swing of the BAN-HAMMER if you are a member.</div>
+     
+      <div class="grid_6"><img src="images/golem-F-U-too.png"></div>
+	 
+    </div>
+	
+	
+    </section>
+    <!-- #end columns demo -->      
+
+
+<!-- MEMBERS -->
+<section id="members"  class=" vertical-padding">
+	<div class="wrapper clearfix">
+    
+    <h1>Members of this Prestigious Organization</h1>
+    
+ 	<div class="row vertical-padding">   	
+	
+        <div class="grid_4">            
+          <h3>RickRox and RickGutz</h3>
+          <img src="images/members/members-rickrox.jpg" />
+        <p>Our fearless leader. He drinks Jack Daniels for breakfast and cleans his teeth with a steel brush. No one has ever seen him without his Santa hat on.   </p> </div>
+        
+        <div class="grid_4">        	
+   	    <h3>Smee</h3>
+            <img src="images/members/members-smee.jpg" />
+       	<p> When he's not giving intricate lectures about the nuances of construction and fishing, Smee is oiled up and ready to go with his finger on the BOOT button.</p></div>
+        
+          <div class="grid_4">        	
+   	    <h3>Bunker and Beez</h3>
+            <img src="images/members/members-beez.jpg" />
+       	<p>Hello ladies. This eligible bachelor loves Pussy, Guns, Motorcycles and Craft Beer. You can have dinner with him; as long as you bring your wallet!</p></div>
+		
+        </div>
+		
+		<div class="row vertical-padding">   
+		
+		  <div class="grid_4">        	
+   	    <h3>Karanastic</h3>
+            <img src="images/members/members-karanastic.jpg" />
+       	<p>Failed rap star. Still emotionally scared from looking at Lenny Kravitz's penis on the internet.</p></div>
+        
+		 <div class="grid_4">        	
+   	    <h3>srfsd23</h3>
+            <img src="images/members/members-srf.jpg" />
+       	<p>This character has a weird to pronounce name. His hobbies include collecting windchimes and taking selfies in restrooms.</p></div>
+        
+		<!--
+          <div class="grid_4">        	
+   	    <h3>Doc G</h3>
+            <img src="images/members/members-docg.jpg" />
+       	<p>This guy loves spending gems even more than he enjoys giving breast exams with his penis. Find him on Craigslist.</p></div>
+        -->
+		  <div class="grid_4">        	
+   	    <h3>Jacko</h3>
+            <img src="images/members/members-jacko.jpg" />
+       	<p> During a routine raid, someone stole his elixer so he buried them and waited for high tide.</p></div>
+		
+		
+		</div>
+		<div class="row vertical-padding"> 
+		
+          <div class="grid_4">        	
+   	    <h3>Wraith and Chaos</h3>
+            <img src="images/members/members-chaos.jpg" />
+       	<p>Has more identies than Bruce Wayne. Pictured here throwing black trash bags with unknown contents into the harbour.</p></div>
+		<!--
+		  <div class="grid_4">        	
+   	    <h3>Exodur</h3>
+            <img src="images/members/members-exodur.jpg" />
+       	<p>Currently studying Jacko's base with a fine toothed comb looking for flaws. Urge to kill...Rising.</p></div>
+        -->
+		
+		<div class="grid_4">
+		<h3>Solsen</h3>
+            <img src="images/members/members-solsen.jpg" />
+       	<p>Holy Crap! It's a girl! And she stuck around for some reason! If Art of Evil was the gang wearing red vests from the 1979 movie "The Warriors" (it basically is), then Solsen would be Mercy.   </p></div>
+		
+		
+		  <div class="grid_4">        	
+   	    <h3>MIKEYE</h3>
+            <img src="images/members/members-mikeye.jpg" />
+       	<p> Resides in Essex, the land of pretty boys and easy whores. Frequents the subway stations on the prowl for 'targets'.</p></div>
+        
+		</div>
+		<div class="row vertical-padding"> 
+		
+         
+       <div class="grid_4">        	
+   	    <h3>Dark Prince Leo</h3>
+            <img src="images/members/members-dpl.jpg" />
+       	<p>This dark prince of the underworld loves vampires and eyeliner. He will drink your blood and sacrifice you to the many faced god.</p></div>
+		
+		<div class="grid_4">        	
+   	    <h3>Geeks</h3>
+            <img src="images/members/members-geeks.jpg" />
+       	<p>Geeks literally drinks Rockstar Energy throughout the day and that's it. No food, no water, just Rockstar. This fuels his rage and aggression to make him feel 'normal'.</p></div>
+        
+        </div>
+		
+		<div class="row vertical-padding"> 
+		
+        
+		
+		<div>
+		
+		
+		
+    </div><!-- #end div .wrapper -->
+</section><!-- #end colored section -->
+
+      
+
+    <!-- columns demo, delete it!-->
+    <section id="columnsdemo" class="clearfix grayelement vertical-padding" style="padding-bottom:80px;">
+    <div class="wrapper clearfix centertext">
+    <div class="grid_12">
+        <h1>Featured Bases</h1>
+        </div>
+       
+      <div class="grid_12"><img src="images/bases/docg.png"></div>
+	   <div class="grid_12"><img src="images/bases/deez.png"></div>
+
+	 
+    </div>
+	
+	
+    </section>
+    <!-- #end columns demo -->      
+<!-- contact -->      
+<div id="main" class="wrapper clearfix">  
+  
+<!-- content area -->    
+	<section id="contact" class="wide-content">
+   	  
+	   <div class="grid_12">
+       	<h1>Contact</h1><p>
+		Dear Nastic, I wrote you but you still ain't calling. I left my cell, my pager, and my phone at the bottom.
+	 
+      <script type="text/javascript" src="https://secure.jotform.us/jsform/43354437092152"></script></div>
+
+		
+		
+	</section><!-- #end content area -->
+</div><!-- #end div #main .wrapper -->
+
+
+        <!-- columns demo, delete it!-->
+    <section id="columnsdemo" class="clearfixvertical-padding grayelement" style="padding-bottom:80px;">
+    <div class="wrapper clearfix centertext">
+    <div class="grid_12">
+        <h1>Stats</h1>
+        </div>
+       
+      <div class="grid_3">
+<p class="lefttext">Clan Leader:
+RickRox</p>
+
+<p class="lefttext">Co Leaders:
+Smee, Daniel, Karanastic</p>
+
+<p class="lefttext">Top Member:
+Doc G</div>
+
+
+ <div class="grid_3">
+
+<p class="lefttext">Clan Tag
+Clan Tag: #PY08Q0R</p>
+
+<p class="lefttext">War Start Time:
+Roughly Noon PST</p>
+
+<p class="lefttext">Required Trophies:
+1,000</p></div>
+
+
+
+ <div class="grid_3"><p class="lefttext">Total Members: 32</p>
+
+<p class="lefttext">Wars Won: 82 as of August 7</p>
+
+<p class="lefttext">War Level: Level 6</p></div>
+	  <div class="grid_3"><p class="lefttext">Best Feud:
+Jacko vs Exodur</p>
+
+<p class="lefttext">Notable New Member:
+joedizzle</p></div>
+    </div>
+	
+	
+    </section>
+	
+	
+    <!-- #end columns demo -->     
+
+
+
+
+
+
+<!-- footer area -->    
+<footer>
+	<div id="colophon" class="wrapper clearfix">
+    Legal: This site is not affiliated with anyone and definitely not SuperCell (we wish). This is just a cool private place for members of the Art of Evil Clan from Clash of Clans to kick it digitally.
+    </div>
+   
+    
+</footer><!-- #end footer area --> 
+
+
+<!-- jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/libs/jquery-1.9.0.min.js">\x3C/script>')</script>
+
+<script defer src="js/flexslider/jquery.flexslider-min.js"></script>
+
+<!-- fire ups - read this file!  -->   
+<script src="js/main.js"></script>
+
+ 
+
+</body>
+</html>
